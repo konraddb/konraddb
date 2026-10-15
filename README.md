@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Konrad 👋
 
-<!--
-**konraddb/konraddb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Software Engineer with 7+ years of experience building full-stack applications and blockchain infrastructure.
 
-Here are some ideas to get you started:
+Previously at **LayerZero Labs**, **Khalani Labs**, **Nervos Foundation** and **Tunnel Vision Labs**, where I've worked on everything from user-facing applications to cross-chain protocols, developer SDKs, and smart contracts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working across the stack - building products, designing scalable backend systems, and solving complex engineering challenges.
+
+### Tech Stack
+
+**Languages:** TypeScript, JavaScript, Solidity, Rust, C#  
+**Frontend:** React, Next.js  
+**Backend:** Node.js, .NET, GraphQL  
+**Blockchain:** EVM, Solana, ethers.js, wagmi, Foundry  
+**Infrastructure:** AWS, Docker, PostgreSQL, Redis
+
+### Connect
+
+- [LinkedIn](https://www.linkedin.com/in/konrad-bieniek-154926194/)
+- [LayerZero GitHub](https://github.com/konrad-w3) — Secondary GitHub account used during my time at LayerZero Labs.
